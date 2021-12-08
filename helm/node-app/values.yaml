@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: kammana/nodeapp
+  repository: 486887731419.dkr.ecr.us-east-2.amazonaws.com/prasanth123/nodeapp
   tag: v1
   pullPolicy: IfNotPresent
 
